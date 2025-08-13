@@ -1,0 +1,20 @@
+Artificial intelligence refers to computer systems that can perform complex tasks normally done by human-reasoning, decision making, creating, etc.
+
+There is no single, simple definition of artificial intelligence because AI tools are capable of a wide range of tasks and outputs, but NASA follows the definition of AI found within EO 13960, which references Section 238(g) of the National Defense Authorization Act of 2019.
+
+How Artificial Intelligence, Machine Learning, and Deep Learning Fit Together
+
+AI tools used at NASA sometimes use machine learning, which uses data and algorithms to train computers to make classifications, generate predictions, or uncover similarities or trends across large datasets.
+
+Some common methods used at NASA include:
+
+Complex processes require tools to consider imperfect or unknown situations. This method of artificial intelligence considers multiple outcomes and probabilities to inform decisions.
+
+A subset of machine learning that involves neural networks with many layers. It distinguishes itself from other forms of neural networks primarily through its capability to learn features automatically from data.
+
+A subset of machine learning that trains computers to understand, interpret, and manipulate human language.
+
+A method to train computers to process data in a way that’s inspired by the human brain, using a layered, interconnected neuron-inspired structure.
+
+NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.
+

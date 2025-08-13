@@ -112,13 +112,13 @@ def generate_response(query):
 )
     return conversational_rag_chain.invoke({"input": query}, config={"configurable": {"session_id": "1"}})["answer"]
 
-logo = "Wichat2.png"
+logo = "bg.jpeg"
 
 # Startup Screen
 def startup_screen():
     st.title("WiChat")
     st.subheader("Version 1.0")
-    st.image("Wichat2.png")
+    st.image("bg.jpeg")
     st.spinner("Loading...")  # Spinner while loading
     time.sleep(5)
     st.session_state.current_screen = "main"  # Switch to main screen after loading

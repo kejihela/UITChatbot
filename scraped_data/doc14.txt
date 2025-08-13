@@ -1,0 +1,102 @@
+Artificial intelligence (AI) is the science of using a machine to automate tasks that would otherwise be performed by a human. AI machines use algorithms to undertake problem-solving operations, often processing high volumes of real-time data.
+
+AI can obtain insights from different types, sources and quality (structured and unstructured) of data intelligence to solve problems and execute tasks with varying levels of autonomy. For a given set of objectives, AI can make predictions, recommendations or decisions influencing real or virtual environments.
+
+‍
+
+AI is the acronym for artificial intelligence, and the two terms are often used interchangeably.
+
+‍
+
+Artificial intelligence may seem like a new concept but it’s a term that was first coined in 1956. Since then, there have been significant advances in search algorithms, machine learning and statistical analysis, all of which have been integral to the subtle integration of AI into our everyday lives.
+
+‍
+
+Machine learning is a term that’s commonly used alongside or even interchangeably with artificial intelligence. According to the Royal Society, machine learning is an application of artificial intelligence ‘that allows computers to learn directly from examples and experience in the form of data’. Computer programs access data and use it to learn for themselves rather than following predetermined rules.  This functionality is integral to the performance of many AI systems.
+
+‍
+
+Global money laundering and terrorist financing watchdog FATF recommends that the use of AI in AML can be beneficial. FATF set international standards for AML regulation, and promote the effective implementation of legal, regulatory and operational measures.
+
+In their July 2021 report, Opportunities and Challenges of New Technologies for AML/CFT, FATF stated,
+
+“Transaction monitoring using AI and machine learning tools may allow regulated entities to carry out traditional functions with greater speed, accuracy and efficiency (provided the machine is adequately and accurately trained). These models are useful for filtering the cases that require additional investigation.”
+
+While the regulatory environment for AI is still in its infancy, governments in many major economies have expressed varying levels of interest in introducing more robust regimes for regulating the use of AI and this is likely to further increase and build momentum following the release of the FATF report.
+
+‍
+
+‍
+
+There are two main types of AI based on its capabilities and functionality.
+
+Weak AI is the most basic and commonly available form of artificial intelligence. It can perform a specific task intelligently for which it has been trained. Most people will be already familiar with weak AI, since its applications include speech recognition, image recognition and purchasing suggestions based on transactional history.
+
+General AI can undertake any intellectual task with human-like qualities. Although still developing, this type of AI is widely and successfully used in many industries, including healthcare and banking.
+
+Super AI remains a hypothetical concept but focuses on the development of systems that could surpass human intelligence.
+
+‍
+
+The functionality of AI is the ability of an AI-enhanced system or machine to think and act like a human.
+
+This is the most basic type of artificial intelligence. It has no memory and is only able to react to current scenarios.
+
+Here AI is able to store data or experiences for a limited time and can learn from these.
+
+AI is able to understand human emotions and behaviours, and socially interact with humans.
+
+The machines of the future that will be smarter than humans.
+
+‍
+
+Use of AI is increasing across every aspect of modern life, with 37% of organisations using AI in some form. Predictions for 2025 are that 95% of customer interactions will in some way be powered by AI and that the global market for AI software is expected to reach a value of £16.3 billion ($22.2 bn).
+
+AI has already been applied in a variety of ways across a plethora of industries, including:
+
+‍
+
+AI has four main applications in in the fight against money laundering and financial crime:
+
+AI’s superpowers come from its ability to analyse, process, and identify patterns in huge datasets from a range of sources in real-time, which is way beyond the capability of humans or that of legacy technology. Additionally, AI can provide deep insights and make recommendations based on its findings, which increases the efficiency and effectiveness of decision-making.
+
+Pattern identification is necessary for detecting anomalous behaviour. In this way, AI can carry the burden of triage in AML, helping human analysts tasked with monitoring behaviours to focus their attention on investigating suspicious activity.
+
+‍
+
+Artificial Intelligence technology can improve transaction monitoring by analysing historical data to identify patterns to predict or detect risks beyond what might be identified with a rule-based system.
+
+While a rule-based system will set a threshold - typically using a scoring system to determine alerts - AI adds an additional layer of analysis to produce a challenger score. AI will report the probability that a group of transactions may be inconsistent against patterns of previous activity, helping to detect the unknown unknowns.
+
+‍
+
+Banks are required to review customer behaviour on an ongoing basis to ensure that what the customer says they are doing corresponds with their observed behaviour. This applies to all transactions, activities and events throughout the lifecycle of a customer.
+
+The challenge analysts face is that large amounts of KYC and transactional data are required to conduct ongoing reviews; data which is often siloed across different systems and departments.
+
+AI engines can analyse extremely large volumes of customer transactional activities more efficiently and effectively than a human, using machine learning to identify patterns that represent the typical activity of a customer to learn what normal and suspicious behaviour looks like, based on any anomalies in the data.
+
+‍
+
+Implementing AI to combat financial crime  and sanctions screening can help process screening hits faster while reducing the burden of false positives for an organisation.
+
+Once trained to recognise what a good match looks like for any given risk appetite, AI technology can determine whether future alerts require further review. This in turn can increase analyst efficiency and effectiveness by focusing on what the AI engine recommends to be worth investigating by a human analyst.
+
+In its new technologies report, FATF explains how AI can automate some aspects of analysis, which in turn has the potential to reduce human labour hours spent on more subtle tasks and provide insights beyond that which humans are capable of.
+
+‍
+
+AI is a machine that’s already delivering and holds even further potential across many sectors, not least for fighting financial crime.
+
+In the future, the use of AI will not be a differentiator for organisations, but rather the norm. What will set organisations apart from – and ahead of – the crowd is how they use AI.
+
+AI is integral to Napier’s Intelligent Compliance platform and all the solutions that form part of it.
+
+Napier’s AI-enhanced insights complement existing rule-based processes to empower analysts to make faster and more meaningful decisions assisted by machine learning.
+
+The applications for AI in AML are monumental, but it is essential to get the basics right before implementing.
+
+‍
+
+Learn more about AI and machine learning here.
+

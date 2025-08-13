@@ -1,0 +1,218 @@
+'ZDNET Recommends': What exactly does it mean?
+
+ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites. And we pore over customer reviews to find out what matters to real people who already own and use the products and services we’re assessing.
+
+When you click through from our site to a retailer and buy a product or service, we may earn affiliate commissions. This helps support our work, but does not affect what we cover or how, and it does not affect the price you pay. Neither ZDNET nor the author are compensated for these independent reviews.  Indeed, we follow strict guidelines that ensure our editorial content is never influenced by advertisers.
+
+ZDNET's editorial team writes on behalf of you, our reader. Our goal is to deliver the most accurate information and the most knowledgeable advice possible in order to help you make smarter buying decisions on tech gear and a wide array of products and services. Our editors  thoroughly review and fact-check every article to ensure that our content meets the highest standards. If we have made an error or published misleading information, we will correct or clarify the article. If you see inaccuracies in our content, please report the mistake via this form.
+
+Artificial intelligence (AI) is a concept that refers to a machine's ability to perform a task that would've previously required human intelligence. It's been around since the 1950s, and its definition has been modified over decades of research and technological advancements.
+
+Today, AI powers self-driving cars, laptops, chatbots like ChatGPT, and image generators. So what is it, and how does it work?
+
+The phrase AI comes from the idea that if intelligence is inherent to organic life, its existence elsewhere makes it artificial. Computer scientist Alan Turing was one of the first to explore the idea that machines could use information and logic to make decisions as people do. He coined the Turing test, which compares machine ability to human ability to see if people can detect it as artificial (convincing deepfakes are an example of AI passing the Turing test).
+
+Basic computing systems function because programmers code them to do specific tasks. AI, on the other hand, is only possible when computers can store information, including past commands, similar to how the human brain learns by storing skills and memories. This ability makes AI systems capable of adapting and performing new skills for tasks they weren't explicitly programmed to do.
+
+Also: ChatGPT vs. Microsoft Copilot vs. Gemini: Which is the best AI chatbot?
+
+Some experts define intelligence as the ability to adapt, solve problems, plan, improvise in new situations, and learn new things. Though these systems aren't a replacement for human intelligence or social interaction, today's AI systems demonstrate some traits found in human intelligence, including learning, problem-solving, pattern-finding, perception, and even a limited spectrum of creativity and social awareness.
+
+Also: The best AI image generators to try right now
+
+Of course, an important component of human intelligence is something that AI hasn't been able to replicate yet: context. For example, Google AI lacks real-world logic and can't discern human subtleties like sarcasm and humor, as evidenced by the technology advising you to add glue to pizza sauce to help the cheese stick or use gasoline to make spaghetti spicy. These examples are lower stakes, but an AI system taking action without semantic understanding can have major consequences in the wrong situation.
+
+AI has a slew of possible applications, many of which are now widely available in everyday life. At the consumer level, this potential includes the newly revamped Google Search, wearables, and even vacuums. The smart speakers on your mantle with Alexa or Google voice assistant built-in are also great examples of AI.
+
+Popular AI chatbots like ChatGPT, Microsoft's Copilot, and Claude can be used for conversational questions or tasks, like breaking down concepts, drafting emails or project outlines, and even writing creative stories. But because AI models cannot tell fact from fiction, these chatbots tend to hallucinate or make things up -- where applicable, always verify the statements a chatbot makes with independent research, especially if you're unsure about the quality of its citations.
+
+Also: How does ChatGPT work?
+
+A major function of AI in consumer products is personalization, whether for targeted ads or biometric security. This is why your phone can distinguish your face from someone else's when you're unlocking it with Face ID, for example -- it's learned what yours looks like by referencing billions of other people's faces and matching specific data points.
+
+On a bigger scale, marketing and content teams can use AI to streamline production, while developers write and execute code with it. AI can also exponentially increase the speed and efficiency of medical research.
+
+Machine learning (ML) refers to the process of training a set of algorithms on large amounts of data to recognize patterns, which helps make predictions and decisions. This pattern-seeking enables systems to automate tasks they haven't been explicitly programmed to do, which is the biggest differentiator of AI from other computer science topics. This capability is what many refer to as AI, but ML is a subset of AI.
+
+When data is structured, or organized, a system can more easily detect an anomaly -- for example, when a transaction on your credit card is from a part of the world it's not used to seeing in your activity.
+
+Also: What is machine learning? Everything you need to know
+
+Examples of ML include search engines, image and speech recognition, and fraud detection. Similar to Face ID, when users upload photos to Facebook, the social network's image recognition can analyze the images, recognize faces, and make recommendations to tag the friends it's identified. With time, practice, and more image data, the system hones this skill and becomes more accurate.
+
+Machine learning is generally split into two main categories: supervised and unsupervised learning.
+
+This common technique for teaching AI systems uses annotated data or data labeled and categorized by humans. ML systems are then fed this data to learn patterns.
+
+Suppose you wanted to train an ML model to recognize and differentiate images of circles and squares. In that case, you'd gather a large dataset of images of circles (like photos of planets, wheels, and other circular objects) and squares (tables, whiteboards, etc.), complete with labels for what each shape is.
+
+The algorithm would then learn from this labeled collection of images to distinguish the shapes and their characteristics: in this case, circles don't have corners, and squares have four equal-length sides. The system can then see a new image and determine the shapes.
+
+By contrast, unsupervised learning lets algorithms try to identify patterns in unlabeled data by looking for similarities that it can use to categorize the data.
+
+The algorithms aren't programmed in advance to pick out specific types of data; they simply look for data with similarities that they can group -- for example, segmenting customers based on shopping behavior to target them with personalized marketing campaigns.
+
+Also: Machine learning is going real-time: Here's why and how
+
+In reinforcement learning, the system is trained to maximize a reward based on input data, going through a trial-and-error process until it arrives at the best possible outcome.
+
+Imagine training a system to play a video game. The system can receive a positive reward if it gets a higher score and a negative reward for a low score. The system learns to analyze the game and make moves, learning solely from the rewards it receives. It can eventually play by itself and learn to achieve a high score without human intervention.
+
+Reinforcement learning is also used in research, where it can help teach autonomous robots the optimal way to behave in real-world environments. Robots learning to navigate new environments they haven't ingested data on -- like maneuvering around surprise obstacles -- is an example of more advanced ML that can be considered AI.
+
+Artificial intelligence can be divided into three subcategories: narrow AI, general AI, and super AI.
+
+Artificial narrow intelligence (ANI) refers to intelligent systems designed or trained to carry out specific tasks or solve particular problems without being explicitly designed. This type of AI is crucial to voice assistants like Siri, Alexa, and Google Assistant.
+
+ANI is sometimes called weak AI, as it doesn't possess general intelligence. But that doesn't mean it isn't powerful in its own right. In addition to voice assistants, image-recognition systems, technologies that respond to simple customer service requests, and tools that flag inappropriate content online are examples of ANI.
+
+ChatGPT is also an example of ANI, as it is programmed to perform a specific task: generate text responses to prompts it's given.
+
+Also: Microsoft Copilot Pro vs. OpenAI's ChatGPT Plus
+
+Artificial general intelligence (AGI), or strong AI, is still a hypothetical concept as it involves a machine understanding and autonomously performing vastly different tasks based on accumulated experience. This type of intelligence is more on the level of human intellect, as AGI systems would be able to reason and think more like people do.
+
+Also: AI's true goal may no longer be intelligence
+
+Like a human, AGI could potentially understand any intellectual task, think abstractly, learn from its experiences, and use that knowledge to solve new problems. Essentially, we're talking about a system or machine capable of common sense, which is currently unachievable with any available AI.
+
+Developing a system with consciousness is still, presumably, a fair way in the distance, but it is the ultimate goal of AI research. OpenAI hints that its forthcoming GPT-5 will get us closer to AGI.
+
+Artificial superintelligence (ASI) would be a machine intelligence that surpasses all forms of human intelligence and outperforms humans in every function. A system like this wouldn't just rock humankind to its core -- it could also destroy it. If that sounds like something straight out of a science fiction novel, it's because it kind of is.
+
+Also: Mechanics of the future: Meet the specialists assembling AI
+
+An intelligent system that can learn and continuously improve itself is still a hypothetical concept. However, if applied effectively and ethically, the system could lead to extraordinary progress and achievements in medicine, technology, and more.
+
+Some of the most impressive advancements in AI are the development and release of GPT 3.5 and, most recently, GPT-4o, in addition to lifelike AI avatars and deepfakes. But there have been many other revolutionary achievements in AI -- too many to include here.
+
+Here are some of the most notable.
+
+ChatGPT is an AI chatbot capable of generating and translating natural language and answering questions. Though it's arguably the most popular AI tool, thanks to its widespread accessibility, OpenAI made significant waves in artificial intelligence by creating GPTs 1, 2, and 3 before releasing ChatGPT.
+
+Also: 6 ways ChatGPT can make your everyday life easier
+
+GPT stands for Generative Pre-trained Transformer, and GPT-3 was the largest language model at its 2020 launch, with 175 billion parameters. Then came GPT-3.5, which powers the free tier of ChatGPT. The largest version, GPT-4, accessible through the free version of ChatGPT, ChatGPT Plus, and Microsoft Copilot, has one trillion parameters.
+
+Though the safety of self-driving cars is a top concern for potential users, the technology continues to advance and improve with breakthroughs in AI. These vehicles use ML algorithms to combine data from sensors and cameras to perceive their surroundings and determine the best course of action.
+
+Also: An autonomous car that wakes up and greets you could be in your future
+
+The autopilot feature in Tesla's electric vehicles is probably what most people think of when considering self-driving cars. But Waymo, from Google's parent company Alphabet, also makes autonomous rides -- as a driverless taxi, for example, or to deliver Uber Eats -- in San Francisco, CA, and Phoenix, AZ.
+
+Cruise is another robotaxi service, and auto companies like Audi, GM, and Ford are also presumably working on self-driving vehicle technology.
+
+The achievements of Boston Dynamics stand out in the area of AI and robotics. Though we're still a long way from creating Terminator-level AI technology, watching Boston Dyanmics' hydraulic, humanoid robots use AI to navigate and respond to different terrains is impressive.
+
+Google subsidiary DeepMind is an AI pioneer focusing on AGI. Though not there yet, the company made headlines in 2016 for creating AlphaGo, an AI system that beat the world's best (human) professional Go player.
+
+Since then, DeepMind has created AlphaFold, a system that can predict the complex 3D shapes of proteins. It has also developed programs to diagnose eye diseases as effectively as top doctors.
+
+Also: What is generative AI and why is it so popular? Here's everything you need to know
+
+A predominant example of AI is large language models (LLMs). These models use unsupervised machine learning and are trained on massive amounts of text to learn how human language works. Tech companies often scrape these texts from the internet for free to keep costs down -- they include articles, books, content from websites and forums, and more.
+
+In the training process, LLMs process billions of words and phrases to learn patterns and relationships between them, enabling the models to generate human-like answers to prompts.
+
+But again, keep in mind that these models are replicating common grammatical patterns and word pairings, albeit at a sophisticated level -- they aren't thinking like we do, in the sense that they cannot understand fact, logic, or common sense.
+
+Also: AI will unleash the next level of human potential. Here's how
+
+OpenAI's recently released GPT-4o tops the Chatbot Arena leaderboard as of now. The company's GPT-4 Turbo is considered one of the most advanced LLMs, while GPT-4 is the largest LLM at supposedly 1.78 trillion parameters. ChatGPT runs on both GPT-3.5 and GPT-4. Gemini is powered by an LLM of the same name developed by Google, and while its number of parameters hasn't been confirmed, it's estimated to be as many as 175 trillion.
+
+Chatbot Arena Update!1. Multilingual Arena -- four new languages (German, Spanish, Russian, Japanese). GPT-4o is #1 in English, German, and Spanish. Gemini-1.5-Pro is #1 in Japanese, Chinese, and French. Claude-3 Opus is #1 in Russian. The competition is tight, and we need… pic.twitter.com/RlNqh0XmMM
+
+The success of machine learning relies on neural networks. These are mathematical models whose structure and functioning are loosely based on the connections between neurons in the human brain, mimicking how they signal to one another.
+
+Imagine a group of robots that are working together to solve a puzzle. Each is programmed to recognize a different shape or color in the puzzle pieces. A neural network is like a group of robots combining their abilities to solve the puzzle together.
+
+Neural networks can tweak internal parameters to change what they output. Each is fed databases to learn what it should put out when presented with certain data during training.
+
+Also: Six skills you need to become an AI prompt engineer
+
+These networks comprise interconnected layers of algorithms that feed data into each other. Neural networks can be trained to perform specific tasks by modifying the importance attributed to data as it passes between layers. During the training of these neural networks, the weights attached to data as it passes between layers will continue to be varied until the output from the neural network is very close to what is desired.
+
+At that point, the network will have 'learned' how to carry out a particular task. The desired output could be anything from correctly labeling fruit in an image to predicting when an elevator might fail based on its sensor data.
+
+Deep learning is part of the ML family and involves training artificial neural networks with three or more layers to perform different tasks. These neural networks are expanded into sprawling networks with a large number of deep layers that are trained using massive amounts of data.
+
+Deep learning models tend to have more than three layers at least and can have hundreds of layers at most. Deep learning can use supervised or unsupervised learning or both in training processes.
+
+Also: What is deep learning? Everything you need to know
+
+Because deep learning technology can learn to recognize complex patterns in data using AI, it is often used in natural language processing (NLP), speech recognition, and image recognition.
+
+Conversational AI refers to systems programmed to have conversations with a user and are trained to listen (input) and respond (output) in a conversational manner. Conversational AI uses NLP to understand and respond naturally.
+
+Also: Why conversational AI is now ready for prime time
+
+Some examples of conversational AI are chatbots like Gemini, smart speakers with a voice assistant like Amazon Alexa, or virtual assistants on your smartphone like Siri.
+
+Consumers and businesses alike have a wealth of AI services available to expedite tasks and add convenience to day-to-day life -- you probably have something in your home that uses AI in some capacity.
+
+Here are some common examples of AI available to the public, both free and for a cost:
+
+Also: The best free AI courses (and whether AI 'micro-degrees' and certificates are worth it)
+
+With generative AI taking off, several companies are working competitively in the space -- both legacy tech firms and startups. While each is developing too quickly for there to be a static leader, here are some of the major players.
+
+Unsurprisingly, OpenAI has made a huge impact in AI after making its powerful generative AI tools available for free, including ChatGPT and Dall-E 3, an AI image generator.
+
+Also: Have 10 hours? IBM will train you in AI fundamentals - for free
+
+Anthropic created Claude, a powerful group of LLMs, and is considered a primary competitor of OpenAI. The company focuses on safety and ethical concerns in its AI research.
+
+Google's parent company, Alphabet, has its hands in several different AI systems through companies including DeepMind, Waymo, and Google.
+
+Also: Ready to upskill? Look to the edge (where it's not all about AI)
+
+Google had a rough start in the AI chatbot race with an underperforming tool called Google Bard, originally powered by LaMDA. The company then switched the LLM behind Bard twice -- the first time for PaLM 2, and then for Gemini, the LLM currently powering it. With the last change, Google also renamed the bot Bard for Gemini.
+
+Also: What is Gemini? Everything you should know about Google's new AI model
+
+DeepMind continues to pursue AGI. It's developed machine-learning models for Document AI, optimized the viewer experience on Youtube, made AlphaFold available for researchers worldwide, and more.
+
+Though you may not hear of Alphabet's AI endeavors in the news every day, its work in deep learning and AI in general has the potential to change the future for human beings.
+
+Aside from creating Microsoft Copilot, the company provides a suite of AI tools for developers on Azure, such as platforms for developing machine learning, data analytics, conversational AI, and customizable APIs that achieve human parity in computer vision, speech, and language.
+
+Also: Microsoft CEO Nadella: 'Expect us to incorporate AI in every layer of the stack'
+
+Microsoft has also invested heavily in OpenAI's development. The tech giant uses GPT-4 in Copilot, formerly known as Bing chat, and in an advanced version of Dall-E 3 to generate images through Microsoft Designer.
+
+Apple has also entered the space most recently with its AI-upgraded line of iPads and potential new announcements to come at WWDC.
+
+Other firms are making strides in artificial intelligence, including Baidu, Alibaba, Cruise, Lenovo, Tesla, and more.
+
+At the rate and scale it's being applied, AI will impact how we work, shop, and consume media, and our privacy, our health, and more. As with most historical shifts, the benefits, downsides, and potential harms are mixed.
+
+Every advancement in technology has changed the nature of work. By automating certain tasks, AI is transforming the day-to-day work lives of people across industries, and creating new roles (and rendering some obsolete). In creative fields, for example, generative AI reduces the cost, time, and human input to make marketing and video content.
+
+Also: 12 reasons AI taking on more work doesn't mean it replaces you
+
+AI is increasingly playing a role in our healthcare systems and medical research. The technology could help make care more scalable and accessible. Doctors and radiologists could make cancer diagnoses using fewer resources, spot genetic sequences related to diseases, and identify molecules that could lead to more effective medications, potentially saving countless lives.
+
+Also: How AI hallucinations could help create life-saving antibiotics
+
+The tech is also creating new questions about how we keep all kinds of data -- even our thoughts -- private. AI has made facial recognition and surveillance commonplace, causing many experts to advocate banning it altogether. At the same time that AI is heightening privacy and security concerns, the technology is also enabling companies to make strides in cybersecurity software.
+
+As models -- and the companies that build them -- get more powerful, users call for more transparency around how they're created, and at what cost. The practice of companies scraping images and text from the internet to train their models has prompted a still-unfolding legal conversation around licensing creative material.
+
+Neural networks can be used to realistically replicate someone's voice or likeness without their consent, making deepfakes and misinformation a present concern, especially for upcoming elections.
+
+Because AI makes automation so easy on a large scale, researchers and tech employees share concerns about its role in weapons manufacturing and warfare.
+
+Also: The ethics of generative AI: How we can harness this powerful technology
+
+The possibility of artificially intelligent systems replacing a considerable chunk of modern labor is a credible near-future possibility.
+
+While commonplace AI won't replace all jobs, what seems certain is that AI will change the nature of work, with the only question being how rapidly and profoundly automation will alter the workplace.
+
+Also: These are the jobs most likely to be taken over by AI
+
+However, artificial intelligence can't run independently. While many jobs with routine, repetitive data work might be automated, workers in other jobs can use tools like generative AI to become more productive and efficient.
+
+There is a broad range of opinions among AI experts about how quickly artificially intelligent systems will surpass human capabilities.
+
+Also: Can AI be a team player in collaborative software development?
+

@@ -1,0 +1,40 @@
+Artificial Intelligence (AI) refers to the technology that allows machines and computers to replicate human intelligence.
+
+Artificial Intelligence (AI) operates on a core set of concepts and technologies that enable machines to perform tasks that typically require human intelligence. Here are some foundational concepts:
+
+Machine Learning is a subset of artificial intelligence (AI) that focuses on building systems that can learn from and make decisions based on data. Instead of being explicitly programmed to perform a task, a machine learning model uses algorithms to identify patterns within data and improve its performance over time without human intervention.
+
+Generative AI refers to a type of artificial intelligence designed to create new content, whether it's text, images, music, or even video. Unlike traditional AI, which typically focuses on analyzing and classifying data, generative AI goes a step further by using patterns it has learned from large datasets to generate new, original outputs. Essentially, it "creates" rather than just "recognizes."
+
+Generative AI works through complex algorithms and deep learning models, often using techniques like neural networks. These networks are trained on vast amounts of data, allowing the AI to understand the underlying structure and patterns within the data.
+
+Here’s a breakdown of how it works:
+
+Natural Language Processing (NLP) is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and interact with human language in a way that feels natural. Essentially, NLP allows machines to read, interpret and respond to text or speech the way humans do. It's the technology behind things like chatbots, voice assistants (such as Alexa or Siri) and even autocorrect on your phone.
+
+NLP involves a combination of linguistics (the study of language) and computer science to process and analyze human language.
+
+Expert Systems are a type of artificial intelligence designed to replicate the decision-making ability of a human expert in a specific field. They use a combination of stored knowledge and logical reasoning to make decisions, solve problems or provide recommendations.
+
+An expert system works by following a set of predefined "if-then" rules, which are based on the knowledge of experts in the field.
+
+AI works by simulating human intelligence in machines through algorithms, data and models that enable them to perform tasks that would typically require human intervention. Here's a simplified breakdown:
+
+AI can be classified into two main categories based on its capabilities and functionalities.
+
+AI models are computer programs that learn to perform tasks by recognizing patterns in data, similar to how our brains learn from experience. They are trained on large datasets and then use what they’ve learned to make decisions, whether it’s identifying faces in a photo, translating languages or generating text.
+
+There are different kinds of AI models based on how they learn:
+
+In Supervised learning, the AI is provided with a set of examples where both the input and the desired output are known. For example, to teach an AI to recognize handwritten numbers, we would show it many images of handwritten digits, each labeled with the correct number (0-9). Over time, the model adjusts its internal settings (called weights) to minimize the difference between its predictions and the correct labels given by the "teacher." This method works well when you have large amounts of high-quality, labeled data and is commonly used for tasks like image classification, speech recognition and spam detection.
+
+In Unsupervised Learning models, the AI is given input data without labels or explicit instructions on what to look for. Its task is to find hidden patterns, clusters, or structures on its own. For instance, if you give an unsupervised model a collection of news articles, it might automatically group them into categories like sports, politics, or entertainment, without anyone telling it those categories. This type of learning is helpful for uncovering new insights in data, reducing dimensions for visualization, and spotting unusual patterns, such as fraud or other anomalies.
+
+Reinforcement learning works differently from the other two methods. In this case, there isn’t a teacher providing the “correct” answer. Instead, the AI learns through a system of rewards and penalties. For example, in a video game, an agent might start by making random movements and gradually learn which actions lead to winning by receiving points or rewards. Over time, the model develops a strategy (or policy) to maximize its rewards. This type of learning is used in fields like robotics, game-playing (such as AlphaGo), and even automated trading systems.
+
+The widespread use of Artificial Intelligence (AI) has brought numerous advantages across various sectors and aspects of our daily lives. Here are some of the primary benefits of AI:
+
+Artificial Intelligence has many practical applications across various industries and domains, including:
+
+P
+

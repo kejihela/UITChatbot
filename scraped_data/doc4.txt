@@ -1,0 +1,222 @@
+Demystify transformative technologies. Decode tech topics with content crafted by IBM experts.
+
+Learn how data mining combines statistics and artificial intelligence to analyze large data sets to discover meaningful insights and useful information.
+
+Use a vector database for storing, managing and indexing huge quantities of high-dimensional vector data efficiently for generative AI use cases and applications.
+
+Explore chatbot technology to understand how chatbots simulate human conversation, often using NLP to parse inputs and generative AI to automate responses.
+
+Find out how a DDoS attack floods websites and other network resources with malicious traffic, disrupting normal activity and denying access to legitimate users.
+
+Uncover and understand how phishing tricks users into divulging sensitive data, downloading malware, and exposing themselves or their organizations to cybercrime.
+
+Study the basics to learn how this technology uses quantum mechanics to solve complex problems beyond classical computers’ capabilities and its potential to impact many industries.
+
+Understand how AI enables computers to think and make decisions like humans, explore its history and the types of AI, and uncover the ways it impacts our lives.
+
+Gain insight into how ML leverages data and algorithms, its use cases and associated concerns to empower responsible and innovative use of the technology.
+
+Discover how deep learning simulates our brain, helping systems learn to identify and perform complex tasks with increasing accuracy unsupervised.
+
+Learn about the k-nearest neighbors algorithm, one of the popular and simplest classification and regression classifiers used in machine learning today.
+
+Dive into how NLP enables machines to understand and respond to text or voice data and learn about various NLP tasks to obtain optimal results.
+
+Learn how neural networks allow programs to recognize patterns and solve common problems in artificial intelligence, machine learning and deep learning.
+
+Know how to harness business data by understanding how business intelligence processes data to gain actionable insights and inform decision-making.
+
+Master this analytics procedure to become skilled at generating predictions, using an easily interpreted mathematical formula and applying it to various domains.
+
+Predict outcomes more quickly and make better decisions by mastering the logistic regression method and by knowing which type of logistic regression to use.
+
+Learn how to run a Monte Carlo Simulation, a computational algorithm, by using repeated random sampling to estimate the possible outcomes of an uncertain event.
+
+Know about exploratory data analysis to effectively analyze and summarize data sets, helping one to discover patterns and anomalies, and generate a hypothesis.
+
+Leverage data science to unlock business insights from an increasing amount of data, accelerate digital transformation and data-driven decision making.
+
+Master visual inspection of equipments to detect defects both in person and remotely using digital images to maintain quality and safety standards.
+
+Implement preventive maintenance by combining regular maintenance tasks with ML, data analytics and predictive asset health monitoring to prevent downtime.
+
+Enhance maintenance efforts with a computerized maintenance management system (CMMS) for efficient scheduling, managing, and tracking of maintenance tasks.
+
+Explore how digital twins create a virtual copy of an object or system by integrating real-time data, simulation, ML and reasoning to support decision-making.
+
+Learn field service management to effectively coordinate resources, employees and equipment, in work activities and operations off company property.
+
+Explore what business automation is, why it matters and how you can put it to work for your organization.
+
+Find out how intelligent automation combines AI and automation technologies, enabling automation of low-level tasks within your business.
+
+Find out how BPM uses various methods to discover, model, analyze, measure, improve and optimize business strategy and processes.
+
+Learn how process mining applies specialized algorithms to event log data to identify trends, patterns and details of how a process unfolds.
+
+Learn how workflows can help you manage repetitive processes and tasks, which occur in a particular order.
+
+Leverage digital transformation with Industry 4.0, delivering real-time decision making, enhanced productivity, flexibility and agility.
+
+Learn about automating customer interactions with IVR, enabling callers to get or provide information or make voice requests without speaking to a live agent.
+
+Learn about IoT which is a network of physical objects that are embedded with sensors, software and network connectivity, allowing them to collect and share data.
+
+Create, design, deploy and support software through software development, covering a set of computer science activities.
+
+Leverage supply chain management (SCM) to coordinate a business’ entire production flow, from sourcing materials to delivering an item.
+
+Track inventory from manufacturers to warehouses and from these facilities to point of sale through effective inventory management.
+
+Review compliance with the Sarbanes-Oxley Act for financial reporting and transparency to prevent corporate fraud.
+
+Manage governance and risks while maintaining compliance with industry and government regulations by implementing GRC strategies.
+
+Learn how cloud computing lets you use infrastructure and applications online, without installing and maintaining them on premises.
+
+Defend your organization with cloud security, leveraging procedures and technologies designed to address external and internal threats.
+
+Use virtualization to maximize hardware efficiency to divide a single computer’s hardware resources into multiple virtual machines.
+
+Learn about the three most popular types of cloud service offerings: IaaS, PaaS and SaaS, also sometimes referred to as cloud service models or cloud computing service models.
+
+Save data and files in an off-site location with cloud storage, accessible through public internet or a dedicated private network connection.
+
+Use hybrid cloud to combine and unify on-premises, private cloud and public cloud environments to create a single, flexible IT infrastructure.
+
+Create an environment dedicated exclusively to a single customer with private cloud, offering cloud benefits along with on-premises security.
+
+Find out how HPC uses powerful processors to process massive amounts of data and solve today’s most complex computing problems in real time or near-real time.
+
+Understand how SaaS works as a software delivery model to reap the benefits like cloud computing, cost savings, scalability and accessibility via a web browser.
+
+Learn how cloud computing enables access to intranet-based infrastructure and applications, eliminating on-site maintenance and enhancing agility and efficiency.
+
+Learn Kubernetes—an open-source container orchestration platform—to manage and scale containerized applications, improve availability and reduce costs.
+
+Explore what developers and IT leaders like about serverless computing, a simpler way to build and run cloud-native applications, paying only for what you use.
+
+Learn how mainframes are able to process billions of calculations and transactions daily in real-time, with the highest levels of security and reliability.
+
+Discover how NoSQL ,also referred to as “non-SQL”, enables the storage and querying of data outside the traditional structures found in relational databases.
+
+Look into the CAP theorem that states a system can only deliver two of three key characteristics: consistency, availability, and partition tolerance.
+
+Find out how database schema create definition and organization of data within a relational database and how it maintains data quality and integrity.
+
+Learn more about etcd, the fault-tolerant open source key-value database that serves as the primary data backbone for Kubernetes and other distributed platform.
+
+Use a relational database which provides a structured way to organize data in rows and columns that form a table, maintaining data consistency and integrity.
+
+Learn how DevOps combines and automates software tasks to speed the delivery of high-quality software, and its synergy with site reliability engineering (SRE).
+
+Automate the integration of security at every phase of the software development lifecycle, with DevSecOps, short for development, security, and operations.
+
+See how software is developed and how it can help your business compete. Discover software development essentials, innovations and technologies.
+
+Find software errors and verify that an application or system is fit for use, preventing bugs, reducing development costs and improving performance.
+
+Find out how PaaS, or Platform-as-a-Service, provides a complete, flexible, and cost-effective cloud platform for developing, running, and managing applications.
+
+Automate IT operations tasks that would otherwise be performed manually, accelerate software delivery, and minimize IT risk with site reliability engineering.
+
+Enable data exchange through APIs, which define rules or protocols for communication between applications.
+
+Optimize IT operations with AIOps, using analytics, artificial intelligence and other technologies to boost efficiency.
+
+Evaluate and verify software or application performance through rigorous software testing.
+
+Use operations data and software engineering to automate IT operations tasks, accelerate software delivery and minimize IT risk with SRE.
+
+Gain deep visibility into modern distributed applications with observability, enabling faster, automated problem identification and resolution.
+
+Automate the integration of security practices with DevSecOps, enhancing security at every phase of the software development lifecycle.
+
+Examine how IT automation implements automated processes and software in place of time-consuming manual activities.
+
+Explore how cloud automation implements tools and processes that reduce or eliminate the manual work of cloud provisioning, configuration and management.
+
+Connect two or more computing devices through computer networking, enabling the transmission and exchange of information and resources.
+
+Explore what mainframes are,  what are their benefits and how do they process billions of calculations and transactions in real time, securely and reliably.
+
+Explore what a data center is, and how you can centralize IT infrastructure in a data center, housing applications and services in a secure way.
+
+Learn about the differences between hard disk drives (HDDs) and solid-state drives (SDDs), and how these differences affect data access speed, performance and cost.
+
+Power your devices with microprocessors, combining the components and function of a CPU into a single integrated circuit (IC), or a small number of connected Ics.
+
+Use virtualization to maximize hardware efficiency to divide a single computer’s hardware resources unto multiple virtual machines.
+
+Build your cloud infrastructure with cloud servers, which are the fundamental building blocks of cloud computing infrastructure.
+
+Explore how Terraform, an open source “Infrastructure as Code” tool, allows programmers to build, change and version infrastructure safely and efficiently.
+
+Build a strong IT infrastructure, combining components needed for the operation and management of enterprise IT services and IT environments.
+
+Learn how middleware speeds development of distributed applications by simplifying connectivity between applications, components and backend data sources.
+
+See how microservices architecture breaks down a monolithic application into smaller deployable services, enabling agility and scalability.
+
+Gain an introductory understanding of mobile application development, which involves making software for smartphones, tablets and digital assistants.
+
+Learn how Java Spring Boot simplifies development of web applications and microservices with an open-source framework referred to as the Java Spring Framework.
+
+Separate applications into three logical and physical computing tiers, making it easy to maintain and scale each tier as needed without impacting the other tiers.
+
+Use network security solutions to protect network infrastructure, resources and traffic from internal and external security threats and cyberattacks.
+
+Understand how to distribute network traffic efficiently among servers to optimize application availability and maintain a positive end-user experience.
+
+Explore the ways network operations centers help organizations maintain optimal performance and how AI plays a role in delivering more reliable network service.
+
+Explore how virtual private clouds offer enterprises the ability to establish a private cloud-like experience within a public cloud infrastructure.
+
+Learn how SDN as a network architecture enables network virtualization, greater flexibility and efficiency compared to traditional networking approaches.
+
+Explore how a CDN, consisting of a network of geographically dispersed servers, improve customer satisfaction by optimizing website and mobile app performance.
+
+Leverage quantum computing, a rapidly emerging technology, that harnesses the laws of quantum mechanics to solve problems too complex for classical computers.
+
+Encrypt and transmit secure data with quantum cryptography, leveraging the naturally occurring and immutable laws of quantum mechanics.
+
+Secure sensitive data, access and communications for the era of quantum computing with quantum-safe cryptography.
+
+Encode data with a qubit, the basic unit of information in quantum computing, which serves as the quantum equivalent of the traditional bit in classical computers.
+
+Leverage quantum-centric supercomputing to combine quantum and traditional high-performance computing (HPC), enabling solutions for complex real-world problems.
+
+Understand how neuromorphic computing, also known as neuromorphic engineering, mimics the way the human brain works.
+
+Explore how supercomputing uses high-performance computing systems to determine or calculate, reducing the overall time to a solution.
+
+Stay informed about cybersecurity technology, types of threats and best practices to protect your critical systems and sensitive information from cyberattacks.
+
+Learn how malware or “malicious software", such as ransomware, Trojan horses and spyware can harm computer systems or their users by compromising data security.
+
+Discover how CAPTCHA , or "Completely Automated Public Turing Test” , authenticates users as humans to prevent threats posed by malicious bots.
+
+Find out how SIEM software helps organizations recognize and address potential security threats and vulnerabilities before they disrupt business operations.
+
+Secure your cloud environment with cloud security, a collection of procedures and technology, to address external and internal threats to business security.
+
+Explore how an SOC unifies and coordinates all cybersecurity technologies and operations of an organization to improve threat detection, response and prevention.
+
+Learn how inventory management involves the tracking of inventory from manufacturers to warehouses and from these facilities to a point of sale.
+
+Understand how order management systems track orders from inception to fulfillment and manage the people, processes and data connected to the order.
+
+Explore how energy management helps businesses proactively monitor, control and optimize energy consumption to converse use and reduce energy costs.
+
+Learn how electronic data interchange (EDI) is used to exchange business information, saving time and eliminating costly errors caused by manual processing.
+
+Facilitate secure, reliable and automated exchange of file-based data over the internet with managed file transfer (MFT) technology to meet compliance needs.
+
+Find out how the Task Force on Climate-related Financial Disclosures (TCFD) seeks to keep investors better-informed about companies' climate-related risks.
+
+Weekly insights, research and expert views on AI, security, cloud and more in the Think Newsletter
+
+Elevate your understanding with our expert-led educational videos and YouTube playlists on the biggest topics and trends in tech. Master the basics, enhance your skill set or acquire real-world strategies for leveraging technology.
+
+Explore our diverse podcast series, featuring expert discussions on top tech topics, real-world application of our products and a look at our culture of diversity, learning and agility.
+
