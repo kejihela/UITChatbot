@@ -116,9 +116,9 @@ logo = "bg.jpeg"
 
 # Startup Screen
 def startup_screen():
-    st.title("WiChat")
+    st.title("UIT")
     st.subheader("Version 1.0")
-    st.image("bg.jpeg")
+    st.image("bg1.png")
     st.spinner("Loading...")  # Spinner while loading
     time.sleep(5)
     st.session_state.current_screen = "main"  # Switch to main screen after loading
